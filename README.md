@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mxttutu.inc maoxiaotu（毛小兔）
-- 👀 I’m interested in developer tool creation and computer language development.
+- 👀 I’m interested in developer tool development and computer language development.
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on Noscript computing lang and artscript.dev
 
